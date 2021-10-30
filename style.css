@@ -1,0 +1,14 @@
+h1{
+    border: dashed blue;
+}
+body{
+    background-color: cornflowerblue;
+}
+
+.inputs{
+    height: 30px;
+    width:500px;
+}
+#results_btn{
+    height:40px;
+}
